@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433393767833",
+    "project_id": "best-pals-f898d",
+    "storage_bucket": "best-pals-f898d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433393767833:android:555388e1f381cba1506f08",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.BestPalsAmultiplayeradventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433393767833-gqm9rhi8ues1asv2mrldgmr03ogbo9e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKOu7fObEPa8ohQV1oOa7HK3rx6KfZgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433393767833-gqm9rhi8ues1asv2mrldgmr03ogbo9e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
