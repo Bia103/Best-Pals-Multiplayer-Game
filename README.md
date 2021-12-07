@@ -8,28 +8,28 @@ Map of the game:
 
 Puzzles:
 
-    - Sun and the moon
-    
-    ![image](https://user-images.githubusercontent.com/48888793/145066664-74cd6fc7-a5bc-49bb-b203-1fedcd4d5b75.png)
+- Sun and the moon
+   
+![image](https://user-images.githubusercontent.com/48888793/145066664-74cd6fc7-a5bc-49bb-b203-1fedcd4d5b75.png)
   
-    Player one on the first path will see this image on the wall and will guid the other player to interract with some cubes in the other room in a specific order.
+ Player one on the first path will see this image on the wall and will guid the other player to interract with some cubes in the other room in a specific order.
+ 
+- Identify the missing object
     
-    - Identify the missing object
+![image](https://user-images.githubusercontent.com/48888793/145068000-77f61702-47a8-400d-b9a0-b78b43a969a4.png)
     
-    ![image](https://user-images.githubusercontent.com/48888793/145068000-77f61702-47a8-400d-b9a0-b78b43a969a4.png)
+Players in different rooms have different objects scattered aroud and thay need to find out which one is missing.
     
-    Players in different rooms have different objects scattered aroud and thay need to find out which one is missing.
+- Cipher 
     
-    - Cipher 
+![image](https://user-images.githubusercontent.com/48888793/145068560-1a446194-2d2f-4082-b9f8-6d5fb4b9e0b1.png)
     
-    ![image](https://user-images.githubusercontent.com/48888793/145068560-1a446194-2d2f-4082-b9f8-6d5fb4b9e0b1.png)
+One player can see a chipher which will unlock a door for the second one.
     
-    One player can see a chipher which will unlock a door for the second one.
+- Map navigation
     
-    - Map navigation
+![image](https://user-images.githubusercontent.com/48888793/145069390-e6d88be2-a753-4501-841b-e6e01aa4e133.png)
     
-    ![image](https://user-images.githubusercontent.com/48888793/145069390-e6d88be2-a753-4501-841b-e6e01aa4e133.png)
-    
-    One player guids the other through a maze.
+One player guids the other through a maze.
     
     
